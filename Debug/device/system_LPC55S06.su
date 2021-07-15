@@ -1,0 +1,14 @@
+system_LPC55S06.c:57:17:findPll0PreDiv	16	static
+system_LPC55S06.c:74:17:findPll0PostDiv	16	static
+system_LPC55S06.c:97:14:findPll0MMult	24	static
+system_LPC55S06.c:123:17:findPll1PreDiv	16	static
+system_LPC55S06.c:140:17:findPll1PostDiv	16	static
+system_LPC55S06.c:163:17:findPll1MMult	16	static
+system_LPC55S06.c:180:17:GetFro12MFreq	4	static
+system_LPC55S06.c:189:17:GetFro1MFreq	4	static
+system_LPC55S06.c:198:17:GetExtClkFreq	4	static
+system_LPC55S06.c:207:17:GetFroHfFreq	4	static
+system_LPC55S06.c:216:17:GetOsc32KFreq	4	static
+system_LPC55S06.c:237:29:SystemInit	8	static
+system_LPC55S06.c:285:6:SystemCoreClockUpdate	48	static
+system_LPC55S06.c:386:29:SystemInitHook	4	static

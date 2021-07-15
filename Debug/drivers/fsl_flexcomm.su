@@ -1,0 +1,15 @@
+fsl_clock.h:675:20:CLOCK_EnableClock	24	static
+fsl_flexcomm.c:70:13:FLEXCOMM_PeripheralIsPresent	16	static
+fsl_flexcomm.c:92:10:FLEXCOMM_GetInstance	24	static
+fsl_flexcomm.c:111:17:FLEXCOMM_SetPeriph	24	static
+fsl_flexcomm.c:140:10:FLEXCOMM_Init	24	static
+fsl_flexcomm.c:160:6:FLEXCOMM_SetIRQHandler	32	static
+fsl_flexcomm.c:176:6:FLEXCOMM0_DriverIRQHandler	16	static
+fsl_flexcomm.c:189:6:FLEXCOMM1_DriverIRQHandler	16	static
+fsl_flexcomm.c:202:6:FLEXCOMM2_DriverIRQHandler	16	static
+fsl_flexcomm.c:215:6:FLEXCOMM3_DriverIRQHandler	16	static
+fsl_flexcomm.c:228:6:FLEXCOMM4_DriverIRQHandler	16	static
+fsl_flexcomm.c:242:6:FLEXCOMM5_DriverIRQHandler	16	static
+fsl_flexcomm.c:255:6:FLEXCOMM6_DriverIRQHandler	16	static
+fsl_flexcomm.c:268:6:FLEXCOMM7_DriverIRQHandler	16	static
+fsl_flexcomm.c:281:6:FLEXCOMM8_DriverIRQHandler	16	static
